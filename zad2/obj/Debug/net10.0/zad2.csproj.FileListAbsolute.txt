@@ -1,0 +1,14 @@
+Z:\lab5zad\zad2\bin\Debug\net10.0\zad2.exe
+Z:\lab5zad\zad2\bin\Debug\net10.0\zad2.deps.json
+Z:\lab5zad\zad2\bin\Debug\net10.0\zad2.runtimeconfig.json
+Z:\lab5zad\zad2\bin\Debug\net10.0\zad2.dll
+Z:\lab5zad\zad2\bin\Debug\net10.0\zad2.pdb
+Z:\lab5zad\zad2\obj\Debug\net10.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\lab5zad\zad2\obj\Debug\net10.0\zad2.AssemblyInfoInputs.cache
+Z:\lab5zad\zad2\obj\Debug\net10.0\zad2.AssemblyInfo.cs
+Z:\lab5zad\zad2\obj\Debug\net10.0\zad2.csproj.CoreCompileInputs.cache
+Z:\lab5zad\zad2\obj\Debug\net10.0\zad2.dll
+Z:\lab5zad\zad2\obj\Debug\net10.0\refint\zad2.dll
+Z:\lab5zad\zad2\obj\Debug\net10.0\zad2.pdb
+Z:\lab5zad\zad2\obj\Debug\net10.0\zad2.genruntimeconfig.cache
+Z:\lab5zad\zad2\obj\Debug\net10.0\ref\zad2.dll

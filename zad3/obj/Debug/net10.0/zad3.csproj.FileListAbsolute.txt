@@ -1,0 +1,14 @@
+Z:\lab5zad\zad3\bin\Debug\net10.0\zad3.exe
+Z:\lab5zad\zad3\bin\Debug\net10.0\zad3.deps.json
+Z:\lab5zad\zad3\bin\Debug\net10.0\zad3.runtimeconfig.json
+Z:\lab5zad\zad3\bin\Debug\net10.0\zad3.dll
+Z:\lab5zad\zad3\bin\Debug\net10.0\zad3.pdb
+Z:\lab5zad\zad3\obj\Debug\net10.0\zad3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\lab5zad\zad3\obj\Debug\net10.0\zad3.AssemblyInfoInputs.cache
+Z:\lab5zad\zad3\obj\Debug\net10.0\zad3.AssemblyInfo.cs
+Z:\lab5zad\zad3\obj\Debug\net10.0\zad3.csproj.CoreCompileInputs.cache
+Z:\lab5zad\zad3\obj\Debug\net10.0\zad3.dll
+Z:\lab5zad\zad3\obj\Debug\net10.0\refint\zad3.dll
+Z:\lab5zad\zad3\obj\Debug\net10.0\zad3.pdb
+Z:\lab5zad\zad3\obj\Debug\net10.0\zad3.genruntimeconfig.cache
+Z:\lab5zad\zad3\obj\Debug\net10.0\ref\zad3.dll
